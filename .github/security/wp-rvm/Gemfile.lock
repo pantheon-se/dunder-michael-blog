@@ -46,7 +46,7 @@ GEM
     wpscan (3.8.7)
       cms_scanner (~> 0.12.1)
     xmlrpc (0.3.0)
-    yajl-ruby (1.4.1)
+    yajl-ruby (1.4.2)
     zeitwerk (2.4.0)
 
 PLATFORMS
